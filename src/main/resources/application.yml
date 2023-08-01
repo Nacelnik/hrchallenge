@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb://localhost:27018/hrdb"
+      database: "hrdb"
+server:
+   port: 8081
